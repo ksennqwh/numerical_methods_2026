@@ -1,1 +1,4 @@
-print("Hello numerical methods")
+import numpy
+import matplotlib
+
+print("Libraries OK")
